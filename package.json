@@ -1,0 +1,14 @@
+{
+  "name": "hometask-project-set-up",
+  "version": "1.0.0",
+  "description": "This is my first project",
+  "main": "index.js",
+  "author": "arturshcharbovich",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
